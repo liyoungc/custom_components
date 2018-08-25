@@ -31,7 +31,7 @@ group:
       - input_select.smart_mi_fan_shake_head_select
       - switch.smart_mi_fan_natural_wind_switch
 
-input_slider:
+input_number:
   smart_mi_fan_speed_slider:
     name: smart_mi_fan_speed_slider
     initial: 0
